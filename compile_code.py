@@ -6,6 +6,8 @@ from sqlbase import SqlBase
 
 class CompileCode(SqlBase):
 
+	''' Compile specified objects '''
+
 	def connect(self):
 
 		self.connect_db()
