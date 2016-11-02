@@ -1,0 +1,4 @@
+schema1.sillytable
+schema2.toptable
+schema2.someotherview
+schema1.apackage
